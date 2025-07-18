@@ -8,7 +8,7 @@ const WingSelector: React.FC = () => {
   return (
     <div className="bg-white rounded-lg shadow-sm p-4 mb-6">
       <h3 className="text-lg font-semibold text-gray-900 mb-4">Select Wing</h3>
-      <div className="grid grid-cols-5 gap-3">
+      <div className="grid grid-cols-3 gap-3">
         {wings.map((wing) => (
           <button
             key={wing}
