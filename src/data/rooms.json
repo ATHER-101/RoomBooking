@@ -1,0 +1,402 @@
+[
+  {
+    "id": "4E-1",
+    "floor": 4,
+    "wing": "E",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "4E-2",
+    "floor": 4,
+    "wing": "E",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "4E-3",
+    "floor": 4,
+    "wing": "E",
+    "roomNumber": 3,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "4E-4",
+    "floor": 4,
+    "wing": "E",
+    "roomNumber": 4,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "4E-5",
+    "floor": 4,
+    "wing": "E",
+    "roomNumber": 5,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "4E-6",
+    "floor": 4,
+    "wing": "E",
+    "roomNumber": 6,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "4E-7",
+    "floor": 4,
+    "wing": "E",
+    "roomNumber": 7,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-1",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-2",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-3",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 3,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-4",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 4,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-5",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 5,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-6",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 6,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-7",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 7,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-8",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 8,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5E-9",
+    "floor": 5,
+    "wing": "E",
+    "roomNumber": 9,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5A-1",
+    "floor": 5,
+    "wing": "A",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5A-2",
+    "floor": 5,
+    "wing": "A",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5A-3",
+    "floor": 5,
+    "wing": "A",
+    "roomNumber": 3,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5A-4",
+    "floor": 5,
+    "wing": "A",
+    "roomNumber": 4,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5B-1",
+    "floor": 5,
+    "wing": "B",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5B-2",
+    "floor": 5,
+    "wing": "B",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5B-3",
+    "floor": 5,
+    "wing": "B",
+    "roomNumber": 3,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5B-4",
+    "floor": 5,
+    "wing": "B",
+    "roomNumber": 4,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5B-5",
+    "floor": 5,
+    "wing": "B",
+    "roomNumber": 5,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5B-6",
+    "floor": 5,
+    "wing": "B",
+    "roomNumber": 6,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5C-1",
+    "floor": 5,
+    "wing": "C",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5C-2",
+    "floor": 5,
+    "wing": "C",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5C-3",
+    "floor": 5,
+    "wing": "C",
+    "roomNumber": 3,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5C-4",
+    "floor": 5,
+    "wing": "C",
+    "roomNumber": 4,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5C-5",
+    "floor": 5,
+    "wing": "C",
+    "roomNumber": 5,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5C-6",
+    "floor": 5,
+    "wing": "C",
+    "roomNumber": 6,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5D-1",
+    "floor": 5,
+    "wing": "D",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5D-2",
+    "floor": 5,
+    "wing": "D",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5D-3",
+    "floor": 5,
+    "wing": "D",
+    "roomNumber": 3,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5D-4",
+    "floor": 5,
+    "wing": "D",
+    "roomNumber": 4,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5D-5",
+    "floor": 5,
+    "wing": "D",
+    "roomNumber": 5,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "5D-6",
+    "floor": 5,
+    "wing": "D",
+    "roomNumber": 6,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6A-1",
+    "floor": 6,
+    "wing": "A",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6A-2",
+    "floor": 6,
+    "wing": "A",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6A-3",
+    "floor": 6,
+    "wing": "A",
+    "roomNumber": 3,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6A-4",
+    "floor": 6,
+    "wing": "A",
+    "roomNumber": 4,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6B-1",
+    "floor": 6,
+    "wing": "B",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6B-2",
+    "floor": 6,
+    "wing": "B",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6B-3",
+    "floor": 6,
+    "wing": "B",
+    "roomNumber": 3,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6B-4",
+    "floor": 6,
+    "wing": "B",
+    "roomNumber": 4,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6B-5",
+    "floor": 6,
+    "wing": "B",
+    "roomNumber": 5,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6B-6",
+    "floor": 6,
+    "wing": "B",
+    "roomNumber": 6,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6C-1",
+    "floor": 6,
+    "wing": "C",
+    "roomNumber": 1,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  },
+  {
+    "id": "6C-2",
+    "floor": 6,
+    "wing": "C",
+    "roomNumber": 2,
+    "occupancy": 0,
+    "maxOccupancy": 4
+  }
+]
