@@ -1,7 +1,6 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import { Room, Booking } from '../types';
 import roomsData from '../data/rooms.json';
-import bookingsData from '../data/bookings.json';
 
 interface BookingContextType {
   rooms: Room[];
@@ -33,7 +32,7 @@ export const useBooking = () => {
 
 export const BookingProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [rooms] = useState<Room[]>(roomsData);
-  const [bookings, setBookings] = useState<Booking[]>(bookingsData);
+  const [bookings, setBookings] = useState<Booking[]>([]);
   const [selectedFloor, setSelectedFloor] = useState(4);
   const [selectedWing, setSelectedWing] = useState('E');
   const [selectedRoom, setSelectedRoom] = useState<Room | null>(null);
